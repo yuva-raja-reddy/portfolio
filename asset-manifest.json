@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.9cc4fd44.css",
+    "main.js": "/portfolio/static/js/main.7324506c.js",
+    "static/js/787.5c0b2d12.chunk.js": "/portfolio/static/js/787.5c0b2d12.chunk.js",
+    "static/media/ner.png": "/portfolio/static/media/ner.874c8b5146589f27de96.png",
+    "static/media/sentiment.png": "/portfolio/static/media/sentiment.60f4ba8c606208d93695.png",
+    "static/media/summary.png": "/portfolio/static/media/summary.cea6da9bfa6da0b09f74.png",
+    "static/media/classify.png": "/portfolio/static/media/classify.cf2c3a99b9f5de41ff61.png",
+    "static/media/content_gen.png": "/portfolio/static/media/content_gen.59dc36c6edfc8bc0435a.png",
+    "static/media/chatbot.png": "/portfolio/static/media/chatbot.413cf169541ab486b566.png",
+    "static/media/recognition1_thumb.png": "/portfolio/static/media/recognition1_thumb.0e198b5481b3f034d61d.png",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.23b7ea9cd5de696a8cff.pdf",
+    "static/media/recognition3_thumb.png": "/portfolio/static/media/recognition3_thumb.2108973dfc543a8271de.png",
+    "static/media/recognition2_thumb.png": "/portfolio/static/media/recognition2_thumb.7393a85bbed34f2b949e.png",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio/index.html",
+    "main.9cc4fd44.css.map": "/portfolio/static/css/main.9cc4fd44.css.map",
+    "main.7324506c.js.map": "/portfolio/static/js/main.7324506c.js.map",
+    "787.5c0b2d12.chunk.js.map": "/portfolio/static/js/787.5c0b2d12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cc4fd44.css",
+    "static/js/main.7324506c.js"
+  ]
+}
