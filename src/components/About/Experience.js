@@ -5,6 +5,13 @@ import { Row } from "react-bootstrap";
 function Experience() {
   const experiences = [
     {
+      period: "Aug 2024 – Present",
+      role: "AI/ML Engineer",
+      company: "SMA Tech LLC",
+      location: "Nashua, NH",
+      description: "As an AI/ML Engineer at SMA Tech LLC, I designed and deployed a secure, serverless RAG ChatBot for a health insurance client by integrating AWS API Gateway, Lambda, and Bedrock with the LLAMA-3 model for dynamic context retrieval using LangChain and ChromaDB. The solution, deployed on AWS SageMaker for efficient inference, leverages AWS EC2, S3, and strict IAM roles for secure data management, and includes an automated IDD pipeline for real-time document processing."
+    },
+    {
       period: "Jan 2021 - Jan 2023",
       role: "Data Scientist Analyst",
       company: "Accenture AI",
