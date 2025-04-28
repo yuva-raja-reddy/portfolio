@@ -6,10 +6,10 @@ function Experience() {
   const experiences = [
     {
       period: "Aug 2024 – Present",
-      role: "AI/ML Engineer",
-      company: "SMA Tech LLC",
-      location: "Nashua, NH",
-      description: "As an AI/ML Engineer at SMA Tech LLC, I designed and deployed a secure, serverless RAG ChatBot for a health insurance client by integrating AWS API Gateway, Lambda, and Bedrock with the LLAMA-3 model for dynamic context retrieval using LangChain and ChromaDB. The solution, deployed on AWS SageMaker for efficient inference, leverages AWS EC2, S3, and strict IAM roles for secure data management, and includes an automated IDD pipeline for real-time document processing."
+      role: "Data Scientist (AI/ML Engineer)",
+      company: "BCBSA",
+      location: "Remote / USA",
+      description: "Conducted statistical analysis and predictive modeling to improve workflows by 20%, developed GPT-like LLM prototypes achieving 10% efficiency gains, built scalable MLOps platforms ensuring 99.9% uptime on AWS, implemented prompt engineering for 15% content cost reduction, designed ingestion pipelines with AWS S3/Glue/Athena for medical data, and optimized ML models reducing size by 60% while maintaining accuracy."
     },
     {
       period: "Jan 2021 - Jan 2023",
@@ -19,18 +19,11 @@ function Experience() {
       description: "Led end-to-end NLP pipeline development for aviation insurance underwriting, achieving 92% accuracy. Collaborated with computer vision team to preprocess 5K+ scanned documents using OCR. Built decision tree classifier automating 80% of insurance decisions. Designed cross-sell recommender system increasing upsell conversion by 35%."
     },
     {
-      period: "Nov 2020 - Dec 2021",
-      role: "Machine Learning Engineer",
-      company: "Cluzters.ai",
-      location: "Remote, India",
-      description: "Developed document classification model using BERT and TF-IDF. Optimized feature engineering improving model performance by 25%. Automated model training using AWS SageMaker and related services."
-    },
-    {
-      period: "Oct 2019 - Nov 2020",
-      role: "Research Collaborator",
-      company: "Amrita School of Engineering",
-      location: "Kerala, India",
-      description: "Conducted extensive data preprocessing using Pandas and NumPy. Implemented text tokenization and vectorization techniques. Designed deep learning architectures for text classification."
+      period: "May 2020 – Dec 2020",
+      role: "Data Analyst",
+      company: "Skyline Infrastructure",
+      location: "Remote / India",
+      description: "Queried and analyzed large datasets using SQL, built dashboards to monitor KPIs, recommended operational improvements, developed resource allocation models improving project delivery by 15%, performed financial market research, and conducted risk and sensitivity analysis to support strategic decision-making."
     }
   ];
 
