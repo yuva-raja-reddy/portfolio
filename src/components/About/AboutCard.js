@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             I recently graduated from SUNY Buffalo with a Master’s in Data Science.
             <br />
-            I have 4+ years of experience as an AI/ML Engineer specializing in 
+            I have 3+ years of experience as an AI/ML Engineer specializing in 
             Generative AI, LLMs, and NLP.
             <br />
             <br />
